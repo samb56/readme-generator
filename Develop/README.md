@@ -1,5 +1,5 @@
 # README Markdown Generaor 
-  ## table of contents
+  ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
